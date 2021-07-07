@@ -11,9 +11,8 @@
 1. run the app
 
 ## Deploy, Run and Test
-- [test report]()
-- [deployed link]()
-- [Pull Request]()
+- [deployed link](https://hatem-sql-api-server.herokuapp.com/)
+- [Pull Request](https://github.com/Hatemhusnieh/SQL-api-server/pull/1)
 
 ### Setup  
 #### `.env` requirement
